@@ -73,12 +73,7 @@
     helm lint my_first_chart
 ## 034-Actions in Template
     helm template my_first_chart
-
-## 040-Variable in Template
-## 041-Loops in Templates
 ## 042-Template Validation
-## 043-Manage Chart Dependencies
-## 044-Conditional Chart Dependency
-## 045-Pass Values to Dependencies at Runtime
-## 046-Child to Parent chart Data Exchange
- 
+    helm lint
+    helm template
+    helm --dry-run
