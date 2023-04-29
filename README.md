@@ -1,6 +1,4 @@
 # Helm chart
-
-
 ## 011-Install HELM
     helm help
     helm version
@@ -75,11 +73,7 @@
     helm lint my_first_chart
 ## 034-Actions in Template
     helm template my_first_chart
-## 035-Access Information in Template
-## 036-Pipe Func in Template
-## 037-Functions in Template
-## 038-Conditional Logic in Template
-## 039-TypeCast Values to YAML in Template
+
 ## 040-Variable in Template
 ## 041-Loops in Templates
 ## 042-Template Validation
